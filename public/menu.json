@@ -1,0 +1,42 @@
+[
+    {
+       "canid":1,
+        "name":"上肉抄西兰花",
+        "type":1,
+        "img":"srcxlh.jpg",
+        "makings":[
+            {"mname":"上肉","img":"sr.jpg"},
+            {"mname":"西兰花","img":"xlh.jpg"}
+        ]
+    },
+    {
+        "canid":1,
+         "name":"蒜苗闷豆腐",
+         "type":2,
+         "img":"smmdf.jpg",
+         "makings":[
+             {"mname":"蒜苗","img":"sm.jpeg"},
+             {"mname":"水豆腐","img":"sdf.jpeg"}
+         ]
+    },
+    {
+        "canid":1,
+        "name":"蒜蓉煮油麦菜",
+        "type":3,
+        "img":"zymc.png",
+        "makings":[
+            {"mname":"油麦菜","img":"ymc.png"}
+        ]
+    },
+    {
+        "canid":1,
+        "name":"丝瓜鸡蛋块汤",
+        "type":4,
+        "img":"sgjdt.jpeg",
+        "makings":[
+            {"mname":"丝瓜","img":"sg.jpg"},
+            {"mname":"鸡蛋","img":"jd.jpg"}
+        ]
+    }
+
+]
